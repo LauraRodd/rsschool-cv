@@ -2,9 +2,9 @@
 
 ### Contact Info:
 
-- :email: laura_rodd@hotmail.com
-- :iphone: +48 510 928 193
-- :house: Krakow, Poland
+- **Email:** laura_rodd@hotmail.com
+- **Phone number:** +48 510 928 193
+- **Location:** Krakow, Poland
 - [**LinkedIn Profile**](https://www.linkedin.com/in/laura-rodd/)
 - **Skype ID:** laurarodd.91
 
